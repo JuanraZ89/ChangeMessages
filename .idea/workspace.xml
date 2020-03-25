@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ChangeMessages:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52cc5ed6-b77e-46ec-be23-7fb7d6eef2cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ChangeMessages" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZP1dx93gP9k01luj106xG0bNY9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="changemessages" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Server 1.8.8/plugins" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52cc5ed6-b77e-46ec-be23-7fb7d6eef2cc" name="Default Changelist" comment="" />
+      <created>1584726005608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584726005608</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="291" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584726746880">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="291" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1676.902/1920.0.1676.902@0.0.1676.902" timestamp="1584726746880" />
+    <state x="643" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1584820131085">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="643" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1676.902/1920.0.1676.902@0.0.1676.902" timestamp="1584820131085" />
+    <state x="595" y="259" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584730917382">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="595" y="259" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1676.902/1920.0.1676.902@0.0.1676.902" timestamp="1584730917382" />
+    <state x="563" y="140" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1584731326563">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="563" y="140" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1676.902/1920.0.1676.902@0.0.1676.902" timestamp="1584731326563" />
+    <state x="689" y="340" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584726195363">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="689" y="340" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1676.902/1920.0.1676.902@0.0.1676.902" timestamp="1584726195363" />
+    <state x="779" y="211" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1585156335717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="211" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585156335717" />
+    <state x="418" y="106" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1584726184454">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="418" y="106" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1676.902/1920.0.1676.902@0.0.1676.902" timestamp="1584726184454" />
+    <state x="567" y="197" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584844240590">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="567" y="197" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1676.902/1920.0.1676.902@0.0.1676.902" timestamp="1584844240590" />
+    <state x="594" y="321" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584813461674">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="594" y="321" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1676.902/1920.0.1676.902@0.0.1676.902" timestamp="1584813461674" />
+    <state x="707" y="221" key="FileChooserDialogImpl" timestamp="1585156822274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="617" y="192" key="FileChooserDialogImpl/0.0.1676.902/1920.0.1676.902@0.0.1676.902" timestamp="1584816123509" />
+    <state x="707" y="221" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585156822274" />
+    <state x="636" y="59" key="SettingsEditor" timestamp="1585156824659">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="51" key="SettingsEditor/0.0.1676.902/1920.0.1676.902@0.0.1676.902" timestamp="1584899153196" />
+    <state x="636" y="59" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585156824659" />
+    <state x="615" y="317" key="com.intellij.ide.util.TipDialog" timestamp="1585155584684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="275" key="com.intellij.ide.util.TipDialog/0.0.1676.902/1920.0.1676.902@0.0.1676.902" timestamp="1584899131726" />
+    <state x="615" y="317" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585155584684" />
+    <state x="285" y="120" key="new project wizard" timestamp="1584835748152">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="285" y="120" key="new project wizard/0.0.1676.902/1920.0.1676.902@0.0.1676.902" timestamp="1584835748152" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1585011729035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585011729035" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+name: ChangeMessages
+main: juanraz89.changemessages.ChangeMessages
+version: 1.0
+commands:
+  ChangeMessages:
+  ChangeMessages Reload:
+  ChangeMessages Developer:
+  kick:
+  Ban:
+  Broadcast:

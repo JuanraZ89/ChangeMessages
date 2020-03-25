@@ -1,0 +1,13 @@
+Config:
+  join-message: true
+  join-message-text:  '&9&l[&4&lChangeMessages&9&l]&3&l Welcome to the server &9&l%Player%'
+  leave-message: true
+  leave-message-text: '&9&l[&4&lChangeMessages&9&l] &3 El jugador &9%Player% se ha ido del servidor'
+  death-message: true
+  death-message-text: '&3El jugador &9%targetkiller% &3lo ha matado el jugador &4%targetdeath%'
+  broadcast-message-color: '&3'
+  broadcast-message: '&9&l[&4&lChangeMessages&9&l]'
+  kick-message: '&9&l[&4&lChangeMessages&9&l]'
+  ban-message:  '&9&l[&4&lChangeMessages&9&l]'
+  ts3-ip: '&9&l[&4&lChangeMessages&9&l]'
+  appeal-ban-site: '&9&l[&4&lChangeMessages&9&l]'

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChangeMessages:jar">
+    <output-path>$USER_HOME$/Desktop/Server 1.8.8/plugins</output-path>
+    <root id="archive" name="ChangeMessages.jar">
+      <element id="module-output" name="ChangeMessages" />
+    </root>
+  </artifact>
+</component>
